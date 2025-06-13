@@ -1,0 +1,35 @@
+@media (max-width:768px){
+
+body{
+    background-color: #ccfba6;
+    text-emphasis-color: #000;
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+}
+
+.primaryHeading{
+
+    color: #b1001d;
+    margin-top: 70px;
+    margin-bottom: 70px;
+
+}
+
+
+.headingSecondary{
+    color: #0d36ff;
+
+}
+
+img{
+    border-radius: 20px;
+}
+
+footer{
+
+    background-color: #a6c4fb;
+    color: #fff;
+    padding: 35px;
+    margin-top: 40px;
+}
